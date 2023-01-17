@@ -1,0 +1,18 @@
+body{
+    background: #1A202C;
+ 
+}
+.login-card{
+    background: #2D3748;
+}
+#floatingInput{
+    background: #2D3748; 
+    color: aliceblue;
+}
+#floatingPassword{
+    background: #2D3748; 
+    color: aliceblue;
+}
+ form label{
+    color: #fff;
+  }
